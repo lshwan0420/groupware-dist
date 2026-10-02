@@ -5,10 +5,13 @@
 
 ## 다운로드
 
-[최신 릴리즈](../../releases/latest)에서 받으세요.
+**[⬇ 최신 설치 파일 바로 받기 (groupware-setup.exe)](../../releases/latest/download/groupware-setup.exe)**
+
+버전별 변경 내용과 이전 버전은 [릴리즈 목록](../../releases)에서 볼 수 있습니다.
 
 | 파일 | 용도 |
 |---|---|
+| `groupware-setup.exe` | 최신 설치 파일 (위 링크와 같은 파일, 이름만 고정) |
 | `groupware-{version}-setup.exe` | 설치 파일 (관리자 권한 불필요, 자동 업데이트 지원) |
 
 `latest.yml` 과 `.blockmap` 은 `electron-updater` 가 쓰는 파일입니다. 직접 받을 필요 없습니다.
